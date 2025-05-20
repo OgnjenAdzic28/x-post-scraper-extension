@@ -11,6 +11,7 @@ A Chrome extension that scrapes posts from X (Twitter) profile pages and downloa
 - 📁 **Multiple Formats**: Downloads data as both JSON and CSV
 - 🛡️ **Error Handling**: Robust error handling with retry mechanisms
 - ⚙️ **Configurable**: Adjustable scroll delay and maximum post limits
+- 🚫 **Ad Blocking**: Automatically blocks ads and promoted content for cleaner scraping
 
 ## Installation
 
